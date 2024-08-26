@@ -24,7 +24,7 @@ FTD
 
 ## 제품 아키텍처 (이미지)
 
-https://github.com/hackersground-kr/hg-FTD-team/blob/main/images/Career.png
+https://github.com/hackersground-kr/hg-FTD-team/blob/main/images/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png
 
 ## 제품 소개 슬라이드
 
