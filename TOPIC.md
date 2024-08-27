@@ -28,7 +28,7 @@ https://github.com/hackersground-kr/hg-FTD-team/blob/main/images/%EC%95%84%ED%82
 
 ## 제품 소개 슬라이드
 
-[파워포인트](./decks/의성군 모든 시민을 위한 진로 웹서비스.pptx)
+[파워포인트](./decks/FTD-team.pptx)
 
 ## 제품 소개 동영상
 
